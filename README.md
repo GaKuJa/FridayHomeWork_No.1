@@ -1,0 +1,1 @@
+# FridayHomeWork_No.1

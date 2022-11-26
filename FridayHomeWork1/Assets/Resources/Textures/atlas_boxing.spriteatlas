@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_boxing
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2a5016155b732264ea57d6c989198899, type: 3}
+    - {fileID: 2800000, guid: fc40c1faa34d0f247bb7a1756f4037e7, type: 3}
+    - {fileID: 2800000, guid: fe18a3cffb64c7049a4f4f3b81aba577, type: 3}
+    - {fileID: 2800000, guid: 65436e4c3f74d14408f06693558bf049, type: 3}
+    - {fileID: 2800000, guid: df6988656a7a6f74790d89d22861d371, type: 3}
+    - {fileID: 2800000, guid: 3cda25e2ff0c988498bbd9bc8272dcbe, type: 3}
+    - {fileID: 2800000, guid: e3feda606218b7444ae7b59560e90f22, type: 3}
+    - {fileID: 2800000, guid: 7b49b7fc9901f984c909cdb595d53534, type: 3}
+    - {fileID: 2800000, guid: 6df5b1e33c9aaed4981538e032012189, type: 3}
+    - {fileID: 2800000, guid: 3fd026173a1339c418aec02f12997d7e, type: 3}
+    - {fileID: 2800000, guid: ac095beb74ee2e640a25405949400556, type: 3}
+    - {fileID: 2800000, guid: 4095c8fdcd8bea1478dde7a1210c5e85, type: 3}
+    - {fileID: 2800000, guid: a69bb2cfe68334f4f8539f17884152a3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e3feda606218b7444ae7b59560e90f22, type: 3}
+  - {fileID: 21300000, guid: 3cda25e2ff0c988498bbd9bc8272dcbe, type: 3}
+  - {fileID: 21300000, guid: 6df5b1e33c9aaed4981538e032012189, type: 3}
+  - {fileID: 21300000, guid: 2a5016155b732264ea57d6c989198899, type: 3}
+  - {fileID: 21300000, guid: df6988656a7a6f74790d89d22861d371, type: 3}
+  - {fileID: 21300000, guid: 3fd026173a1339c418aec02f12997d7e, type: 3}
+  - {fileID: 21300000, guid: fc40c1faa34d0f247bb7a1756f4037e7, type: 3}
+  - {fileID: 21300000, guid: ac095beb74ee2e640a25405949400556, type: 3}
+  - {fileID: 21300000, guid: 65436e4c3f74d14408f06693558bf049, type: 3}
+  - {fileID: 21300000, guid: 7b49b7fc9901f984c909cdb595d53534, type: 3}
+  - {fileID: 21300000, guid: 4095c8fdcd8bea1478dde7a1210c5e85, type: 3}
+  - {fileID: 21300000, guid: a69bb2cfe68334f4f8539f17884152a3, type: 3}
+  - {fileID: 21300000, guid: fe18a3cffb64c7049a4f4f3b81aba577, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - boxer_r_1
+  - boxer_r_0
+  - boxer_r_3
+  - background_ring_0
+  - boxer_b_3
+  - boxer_b_4
+  - boxer_b_0
+  - boxer_r_4
+  - boxer_b_2
+  - boxer_r_2
+  - maru
+  - waku
+  - boxer_b_1
+  m_RenderDataMap: {}
+  m_Tag: atlas_boxing
+  m_IsVariant: 0
